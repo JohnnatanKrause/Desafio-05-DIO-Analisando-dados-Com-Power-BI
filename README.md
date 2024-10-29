@@ -45,3 +45,5 @@ Esse desafio foi uma excelente oportunidade para aprimorar minhas habilidades em
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
+![Fundo do Projeto](CF_2344308_0132e3218cb012be4ce4b6bd2a78af5c.png)
+
