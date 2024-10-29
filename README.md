@@ -1,4 +1,4 @@
-![Fundo do Projeto](https://github.com/JohnnatanKrause/Desafio-05-DIO-Analisando-dados-Com-Power-BI/issues/1#issue-2619912068)
+![Fundo do Projeto](https://github.com/JohnnatanKrause/Desafio-05-DIO-Analisando-dados-Com-Power-BI/blob/master/Power%20BI%20related%20image.png?raw=true)
 
 # Desafio 05: Analisando Dados com Power BI
 
