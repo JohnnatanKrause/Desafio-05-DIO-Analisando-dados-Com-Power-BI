@@ -37,7 +37,9 @@ Esse desafio foi uma excelente oportunidade para aprimorar minhas habilidades em
 ## Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnnatankrause/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JohnnatanKrause)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JohnnatanKrause) 
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@johnnatankrause/)
+[![DIO](https://img.shields.io/badge/DIO-0000FF?style=for-the-badge&logo=digitalocean&logoColor=white)](https://www.dio.me/users/johnnatankrause)
 
 ## Habilidades
 
@@ -46,4 +48,6 @@ Esse desafio foi uma excelente oportunidade para aprimorar minhas habilidades em
 
 
 ![Fundo do Projeto](CF_2344308_0132e3218cb012be4ce4b6bd2a78af5c.png)
+
+
 
